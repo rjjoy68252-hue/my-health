@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Health</string>
+    <string name="wellness_disclaimer">For general wellness tracking only. Not intended as a medical diagnosis, treatment, or clinical tool.</string>
+    <string name="privacy_notice_summary">All health, activity, workout, and nutrition records are stored locally on your device. No personal health data is sent to external servers.</string>
+    <string name="health_connect_rationale_title">My Health &amp; Health Connect</string>
+    <string name="health_connect_rationale_body">My Health uses Health Connect permissions solely to read and sync your chosen steps, heart rate, sleep, weight, hydration, workouts, and nutrition locally on your device. Data is never uploaded to external servers.</string>
+</resources>
